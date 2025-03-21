@@ -15,4 +15,6 @@ A Streamlit application that uses multiple AI agents to process PDFs, YouTube vi
 ## Installation
 1. Clone this repository:
 
-2. ![image](https://github.com/user-attachments/assets/a1afd78e-72e6-4ca5-a151-dac325564398)
+##Streamlit - UI
+![image](https://github.com/user-attachments/assets/3878dd31-2332-44a1-8e45-06d0f7a5090a)
+
