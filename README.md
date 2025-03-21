@@ -13,5 +13,5 @@ A Streamlit application that uses multiple AI agents to process PDFs, YouTube vi
 - You need a Groq API Key to run the app. Enter it in the sidebar when running
 
 ## Installation
-1. Clone this repository:
+- Clone this repository:
 
