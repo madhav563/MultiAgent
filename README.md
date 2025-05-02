@@ -2,13 +2,13 @@
 
 Multi-Agent Research Assistant with RAG Integration <br>
 Built an advanced Streamlit application leveraging a multi-agent architecture to automate research and content synthesis from PDFs, YouTube videos, and websites — reducing manual effort by 30%. <br>
-• Designed and orchestrated three specialized agents:<br>
- - Extractor for content summarization <br>
- - RAG agent using FAISS vector store + HuggingFace embeddings <br>
- - Critic for refining and validating responses <br>
-• Utilized LangChain and Grok’s Gemma2-9b-it for scalable LLM-powered reasoning. <br>
-• Demonstrated strong proficiency in NLP, vector search, agent collaboration, and data pipeline optimization. <br>
-• Extended functionality to generate personalized cold emails tailored to job listings. <br>
+  • Designed and orchestrated three specialized agents:<br>
+   - Extractor for content summarization <br>
+   - RAG agent using FAISS vector store + HuggingFace embeddings <br>
+   - Critic for refining and validating responses <br>
+  • Utilized LangChain and Grok’s Gemma2-9b-it for scalable LLM-powered reasoning. <br>
+  • Demonstrated strong proficiency in NLP, vector search, agent collaboration, and data pipeline optimization. <br>
+  • Extended functionality to generate personalized cold emails tailored to job listings. <br>
 
 A Streamlit application that uses multiple AI agents to process PDFs, YouTube videos, and websites to answer research questions using Retrieval-Augmented Generation (RAG). <br>
 
