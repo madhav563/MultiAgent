@@ -6,7 +6,7 @@ Built an advanced Streamlit application leveraging a multi-agent architecture to
    - Extractor for content summarization <br>
    - RAG agent using FAISS vector store + HuggingFace embeddings <br>
    - Critic for refining and validating responses <br>
-  • Utilized LangChain and Grok’s Gemma2-9b-it for scalable LLM-powered reasoning. <br>
+  • Utilized LangChain and Groq’s Gemma2-9b-it for scalable LLM-powered reasoning. <br>
   • Demonstrated strong proficiency in NLP, vector search, agent collaboration, and data pipeline optimization. <br>
   • Extended functionality to generate personalized cold emails tailored to job listings. <br>
 
